@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     background-color: #f1f1f1;
     display: flex;
-    justify-conte;
+    justify-content: center;
     align-items: center;
     height: 100vh;
     margin: 0;
@@ -14,14 +14,14 @@ body {
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     width: 100%;
-    max-widt
+    max-width: 400px;
     box-sizing: border-box; /* Ensures padding doesn't affect width calculations */
 }
 
 .login-form h2 {
     text-align: center;
     color: #333;
-    margin-bot
+    margin-bottom: 1.5rem;
 }
 
 .input-group {
